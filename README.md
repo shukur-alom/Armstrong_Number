@@ -12,7 +12,7 @@
 <p>
   In case you may want a list of armstrong number in a range. Thats why in my code I kept both of the oppurtunaty. To run this script.
   <ul>
-    <li>- Download the script. "https://github.com/Knowledgeless/Armstrong_Number.git"</li>
+    <li>Download the script. "https://github.com/Knowledgeless/Armstrong_Number.git"</li>
     <li>Run 'python3 armstrong_number.py'</li>
     <li>Choose an option.</li>
     <li>Enter what ever script is asking to.</li>

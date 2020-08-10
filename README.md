@@ -15,8 +15,8 @@
     <li>Download the script. "https://github.com/Knowledgeless/Armstrong_Number.git"</li>
     <li>Run 'python3 armstrong_number.py'</li>
     <li>Choose an option.</li>
-    <li>Enter what ever script is asking to.</li>
+    <li>Enter what ever script is asking for.</li>
   </ul>
 </p>
-<br><br>
-<h2>Happy Coding </h2>
+<br>
+<h2>HappyCoding </h2>
